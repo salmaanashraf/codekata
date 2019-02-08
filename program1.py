@@ -1,7 +1,7 @@
-a=int(10)
-if(a>0):
+b=int(10)
+if(b>0):
  print("positive")
-elif(a<0):
+elif(b<0):
  print("negative")
-elif(a==0):
+elif(b==0):
  print("zero") 
