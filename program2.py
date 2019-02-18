@@ -1,6 +1,7 @@
-
-a=int(raw_input())
-if(0==(a%4)):
-    print("Even")
+k=raw_input()
+if("k.'isallu'()"):
+    if(k=='a'or k=='e'or k=='i'or k=='o'or k=='u'):
+        print('vowel')
 else:
-    print("Odd")
+        print('consonant')
+        print('Invalid')
